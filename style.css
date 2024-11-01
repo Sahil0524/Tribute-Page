@@ -1,0 +1,36 @@
+body{
+    
+    text-align: center;
+    background-color: #e6e6fa;
+    border: solid black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.tata{
+    font-size: 35px;
+    color:#5d4037;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    font-size: 25px;
+}
+img{
+    height: 200px;
+    border-radius: 75px;
+}
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #5d4037;
+}
+.biography{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color:#6a5acd; 
+}
+div{
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #5d4037 
+}
